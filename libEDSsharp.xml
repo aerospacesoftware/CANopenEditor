@@ -65,7 +65,7 @@
             <param name="fi"></param>
             <param name="di"></param>
         </member>
-        <member name="M:libEDSsharp.CanOpenNodeExporter_V4.Export_c(System.String,System.String,System.String)">
+        <member name="M:libEDSsharp.CanOpenNodeExporter_V4.Export_c(System.String,System.String,System.String,libEDSsharp.EDSsharp)">
             <summary>
             Export the c file
             </summary>
